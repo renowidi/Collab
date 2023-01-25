@@ -1,5 +1,4 @@
-# print("Hello Reno")
-# print("Hello Reno")
+# print("Hello Reno & Rachmat")
 
 print("======Kalkulator Sederhana=======")
 
